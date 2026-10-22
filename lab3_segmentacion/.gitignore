@@ -1,0 +1,4 @@
+# Datos de imágenes (se descargan al ejecutar el notebook)
+data/
+.ipynb_checkpoints/
+__pycache__/
